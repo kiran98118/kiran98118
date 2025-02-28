@@ -16,9 +16,9 @@
 
 
 ## 🔬 **Featured Projects**  
-🔹 **[Flight Insurance Management System](https://github.com/kiran98118/flight-insurance-system)** ✈️ - Built a dynamic insurance booking system.  
-🔹 **[Yelp Recommendation System](https://github.com/kiran98118/yelp-recommendation-system)** 🍽️ - Personalized restaurant suggestions using ML.  
-🔹 **[Phishing Attack Detection](https://github.com/kiran98118/phishing-attack-detection)** 🔐 - Secured browsing with Random Forest classification.  
+🔹 **[Flight Insurance Management System](https://github.com/kiran98118/Insurance-Management-System)** ✈️ - Built a dynamic insurance booking system.  
+🔹 **[Yelp Recommendation System](https://github.com/kiran98118/Yelp-Recommendation-System)** 🍽️ - Personalized restaurant suggestions using ML.  
+🔹 **[Phishing Attack Detection](https://github.com/kiran98118/Detection-of-Phishing-Attacks)** 🔐 - Secured browsing with Random Forest classification.  
 
 
 
