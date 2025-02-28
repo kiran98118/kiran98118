@@ -21,9 +21,7 @@
 - **[Phishing Attack Detection](#)** 🔐 - Secured browsing with Random Forest classification.  
 
 
-## 📊 GitHub Stats  
-![Sai Kiran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiran98118&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiran98118&layout=compact&theme=radical)  
+ 
 
 ## 🔥 GitHub Activity  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kiran98118&theme=radical)
