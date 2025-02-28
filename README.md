@@ -15,10 +15,11 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 
-## 🔬 Featured Projects  
-- **[Flight Insurance Management System](#)** ✈️ - Built a dynamic insurance booking system.  
-- **[Yelp Recommendation System](#)** 🍽️ - Personalized restaurant suggestions using ML.  
-- **[Phishing Attack Detection](#)** 🔐 - Secured browsing with Random Forest classification.  
+## 🔬 **Featured Projects**  
+🔹 **[Flight Insurance Management System](https://github.com/kiran98118/flight-insurance-system)** ✈️ - Built a dynamic insurance booking system.  
+🔹 **[Yelp Recommendation System](https://github.com/kiran98118/yelp-recommendation-system)** 🍽️ - Personalized restaurant suggestions using ML.  
+🔹 **[Phishing Attack Detection](https://github.com/kiran98118/phishing-attack-detection)** 🔐 - Secured browsing with Random Forest classification.  
+
 
 
  
