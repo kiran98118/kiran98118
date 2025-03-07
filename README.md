@@ -1,3 +1,8 @@
+### 🔹 [Financial Health Analysis](https://github.com/kiran98118/Financial-Health-Analysis)  
+![GitHub Repo stars](https://img.shields.io/github/stars/kiran98118/Financial-Health-Analysis?style=social)  
+A financial data analysis project that cleans, processes, and visualizes revenue, expenses, and profitability trends.
+
+
 # 👋 Hi, I'm Sai Kiran  
 🚀 **Data Analyst | Machine Learning Enthusiast | Software Developer**
 
